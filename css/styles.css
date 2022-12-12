@@ -106,28 +106,6 @@ header .main-header {
     border-radius: 10px;
 }
 
-header .links {
-    padding-bottom: 10px;
-}
-
-header .links ul {
-    display: flex;
-    text-align: center;
-    justify-content: space-around;
-}
-
-header .links ul li {
-    list-style: none;
-    text-decoration: none;
-}
-
-header .links ul li a {
-    color: #4C84C3;
-    font-weight: 500;
-    font-size: 18px;
-    text-decoration: none;
-}
-
 
 /* First-Section */
 #first-section .main-header {
@@ -635,10 +613,6 @@ footer .main .right span {
         padding-right: 10px;
     }
 
-    header .links ul li a {
-        font-size: 15px;
-    }
-
     #second-section .main-header .first .patient .image img {
         width: 80%;
     }
@@ -690,10 +664,6 @@ footer .main .right span {
     .navigation-section ul {
         font-size: 18px;
         gap: 25px;
-    }
-
-    header .links ul li a {
-        font-size: 13px;
     }
 
     #first-section .main-header .second .text h1 {
@@ -889,23 +859,6 @@ footer .main .right span {
 
     .main-header .right-section .input-section .search {
         display: none;
-    }
-
-    header .links ul {
-        padding: 10px;
-        border-radius: 10px;
-        flex-direction: column;
-        background-color: #E6EEF2;
-        justify-content: flex-start;
-        text-align: start;
-    }
-
-    header .links ul li {
-        padding-bottom: 3px;
-    }
-
-    header .links ul li a {
-        font-size: 15px;
     }
 
     #first-section .main-header {
